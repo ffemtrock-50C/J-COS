@@ -24,4 +24,4 @@ J-COS is a decision operating system that helps leaders make better decisions un
 0.0.1
 
 ## Status
-In active development.
+In active development. The architecture and methodology are evolving and should not be considered stable.
