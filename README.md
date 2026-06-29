@@ -2,7 +2,7 @@
 Judgment & Command Operating System
 
 ## Purpose
-J-COS is a decision operating system that helps leaders make better decisions under uncertainty by combining standards, evidence, structured reasoning, and institutional memory.
+J-COS is a Leadership Operating System for designing organizations that make consistently better decisions under uncertainty.
 
 ## Philosophy
 - Externalize thinking, not just information.
